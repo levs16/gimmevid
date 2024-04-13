@@ -1,0 +1,4 @@
+simpleaudio
+python-opencv
+numpy
+string
